@@ -1,6 +1,6 @@
 import NotesPage from "./pages/NotesPage";
 import NotesProvider from "./context/NotesContext";
-require('dotenv').config();
+
 
 function App() {
     return (
